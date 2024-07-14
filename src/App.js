@@ -1,5 +1,6 @@
 import './App.css';
-import { Randomcolor } from './components/randomcolor';
+import Randomcolor from './components/randomColor/randomcolor';
+
 
 function App() {
   return(
